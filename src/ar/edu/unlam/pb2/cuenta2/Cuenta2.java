@@ -10,7 +10,7 @@ public abstract class Cuenta2 {
 		this.saldo=0.0;		
 	}
 
-	public Double getSaldo() {
+	protected Double getSaldo() {
 		return saldo;
 	}
 
